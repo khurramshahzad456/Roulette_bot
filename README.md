@@ -10,8 +10,8 @@ Command: !color_bet <color> <bet_amount>
 Example: !color_bet red 20
 
 # Installation
-Clone this repository using git clone 'https://github.com/khurramshahzad456/Roulette_bot.git'
-Install the required dependencies using pip install -r requirements.txt
+Clone this repository using git clone 'https://github.com/khurramshahzad456/Roulette_bot.git'.
+Install the required dependencies using pip install -r requirements.txt.
 Replace the TOKEN variable in roulette-bot.py with your own Discord bot token.
 Run the bot using python roulette-bot.py.
 
