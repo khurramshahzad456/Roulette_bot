@@ -29,4 +29,4 @@ Use the !game_help command to see the list of available commands.
   
 Use the !number_bet or !color_bet command to place a bet.
   
-Detailed video of code explanation and bot demo is available at this link 'drive url'.
+Detailed video of code explanation and bot demo is available at this link 'https://drive.google.com/file/d/1DrUfue7DR7IDGpgM9-Njcksu21Ca32xF/view'.
